@@ -27,6 +27,6 @@ Projeto construído do evento Next Level Week da RocketSeat
 
 ## 📧 Contato
 
-matheus_cfreitas@hotmail.com
-matheuscfreitas97@gmail.com
-https://www.linkedin.com/in/mathfrei/
+- matheus_cfreitas@hotmail.com
+- matheuscfreitas97@gmail.com
+- https://www.linkedin.com/in/mathfrei/
